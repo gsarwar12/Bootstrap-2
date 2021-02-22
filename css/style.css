@@ -1,0 +1,17 @@
+.header-area {
+	background: linear-gradient(20deg, black, white, black, blue);
+}
+.header-area a{color: #fff;}
+.logo a {
+  font-size: 25px;
+  font-weight: bold;
+}
+.mainmenu ul {
+  list-style: none;
+}
+.mainmenu ul li {
+  display: inline-block;
+  margin: 0 6px;
+  font-weight: 500;
+  margin-top: 10px;
+}
